@@ -4,10 +4,10 @@
 
 ### Macユーザ  
 1. https://goo.gl/yCv154 にアクセス  
-2. pg_setup3.sh をダウンロード  
-3. pg_setup3.sh をホームディレクトリに移動  
-4. `$ chmod +x pg_setup3.sh` で実行権限付与  
-5. `$ ./pg_setup3.sh` で実行  
+2. `pg_setup3.sh` と`pg_setup3-next.sh` をダウンロード  
+3. `pg_setup3.sh` を`pg_setup3-next.sh` ホームディレクトリに移動  
+4. `$ chmod +x pg_setup3.sh` と `$ chmod +x pg_setup3-next.sh` で実行権限付与  
+5. `$ ./pg_setup3.sh` と `$ ./pg_setup3-next.sh` で実行  
 
 ### Windowsユーザ  
 1. マシンが64bitか32bitか確認  
