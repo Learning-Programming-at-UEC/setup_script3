@@ -6,3 +6,4 @@ echo 'export PATH="$PYENV_ROOT/versions/anaconda3-4.3.1/bin/:$PATH"' >> ~/.bashr
 conda update -y conda
 conda update -y --all
 conda create -n uec python=3.6 anaconda
+exec $SHELL -l
